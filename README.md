@@ -1,0 +1,1 @@
+This is the demo for QuReGNN(QuReGNN: A Resource-Efficient Quantum Graph Neural Network with Qubit-Reuse Mechanism). This manuscript is currently unpublished. We will provide the DOI once it is accepted for publication.
